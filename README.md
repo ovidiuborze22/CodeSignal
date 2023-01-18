@@ -1,2 +1,2 @@
 # CodeSignal
-CodeSignal Questions Solved
+CodeSignal Questions Solved!
